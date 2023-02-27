@@ -1,0 +1,22 @@
+.container {
+  margin: 20%;
+  text-align: center;
+  display: flex;
+  width: 100px;
+}
+
+h1 {
+  margin-right: 20px;
+  background-color: lightpink;
+}
+
+label, input {
+  height: 20px;
+  margin: 40px 6px 6px 6px;
+}
+
+button {
+  height: 40px;
+  margin: 35px 6px 6px 6px;
+  border-radius: 20px;
+}
